@@ -2,7 +2,7 @@
 
 GeneNetworks Demos using Pluto.jl notebooks.
 
-- [QTL scan performed by LiteQTL.jl](https://mybinder.org/v2/gh/sens/visuals/main?urlpath=pluto/open?path=/home/jovyan/notebooks/spleen_analysis.jl)
+- [QTL scan performed by LiteQTL.jl](https://mybinder.org/v2/gh/sens/GNDemo/main?urlpath=pluto/open?path=/home/jovyan/notebooks/spleen_analysis.jl)
 
 ## Thanks
 
